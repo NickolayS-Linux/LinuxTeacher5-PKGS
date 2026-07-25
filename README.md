@@ -127,6 +127,13 @@ Cкрипт, который выполнится после удаления п�
 
 <img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/f95f38c6-5623-482a-b948-126d61207091" />
 
+Вроде все правильно:
+
+<img width="800" height="110" alt="image" src="https://github.com/user-attachments/assets/5b0c6ec4-6449-474e-901e-aa2b76a18ed9" />
+
+<img width="795" height="21" alt="image" src="https://github.com/user-attachments/assets/7757a0c4-db2a-4f0d-a8b4-409631275724" />
+
+
 <img width="799" height="786" alt="image" src="https://github.com/user-attachments/assets/ff660f84-e704-4502-a2ae-1929e2741843" />
 
 
