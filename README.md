@@ -111,5 +111,23 @@ Cкрипт, который выполнится после удаления п�
 
 Проверю, что у меня установлены необходимые пакеты и, при необходимости, установлю их:
 
+<img width="808" height="971" alt="image" src="https://github.com/user-attachments/assets/78b0b73a-038a-41c3-8109-15594eb7f5de" />
+
+<img width="796" height="574" alt="image" src="https://github.com/user-attachments/assets/0278a885-36bb-428e-955d-c80856902cfd" />
+
+Выполню сборку командой:
+
+- начало сборки
+
+  <img width="792" height="975" alt="image" src="https://github.com/user-attachments/assets/d65e3c8d-9be1-4156-b999-b9b8a947050b" />
+
+- процесс
+ 
+<img width="796" height="976" alt="image" src="https://github.com/user-attachments/assets/f76c0d28-37ce-4e4d-b91f-ce68fc4d3d91" />
+
+<img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/f95f38c6-5623-482a-b948-126d61207091" />
+
+<img width="799" height="786" alt="image" src="https://github.com/user-attachments/assets/ff660f84-e704-4502-a2ae-1929e2741843" />
+
 
 
