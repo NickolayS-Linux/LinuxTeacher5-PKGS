@@ -71,3 +71,17 @@ Control-файл.
 
 <img width="794" height="140" alt="image" src="https://github.com/user-attachments/assets/0b747fc4-00f0-45e9-96ca-dcad145fb951" />
 
+Файл rules.
+
+Содержание:
+
+<img width="799" height="389" alt="image" src="https://github.com/user-attachments/assets/b4d4113a-d937-421a-b2a9-3860817de4e4" />
+
+Файл compat.
+
+Содержание:
+
+<img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/a0180b1a-d6b2-49e0-8468-3d4da96811e3" />
+
+
+
