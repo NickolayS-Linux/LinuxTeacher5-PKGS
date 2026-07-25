@@ -57,9 +57,14 @@ Oracle VirtualBox (https://www.virtualbox.org/wiki/Linux_Downloads).
 
 Для выполнения сборки нужно создать, минимум, 4 файла.
 
-<img width="802" height="18" alt="image" src="https://github.com/user-attachments/assets/4d35ebf9-9505-4ba3-9603-e2da0988c30a" />
+Control-файл.
 
 Содержание:
 
+<img width="802" height="18" alt="image" src="https://github.com/user-attachments/assets/4d35ebf9-9505-4ba3-9603-e2da0988c30a" />
+
 <img width="785" height="273" alt="image" src="https://github.com/user-attachments/assets/b433f0fa-104a-4a13-b643-d83c747419ac" />
+
+
+<img width="794" height="140" alt="image" src="https://github.com/user-attachments/assets/0b747fc4-00f0-45e9-96ca-dcad145fb951" />
 
