@@ -161,6 +161,29 @@ Cкрипт, который выполнится после удаления п�
 
 <img width="810" height="83" alt="image" src="https://github.com/user-attachments/assets/5efd1c1e-1cea-4b3a-9dd1-7697a2deaca6" />
 
+Перейду в локальный репозиторий и сгенирирую индексный файл пакетов:
+
+<img width="772" height="82" alt="image" src="https://github.com/user-attachments/assets/ff104030-7520-4f0c-9388-6a3ceb21d1e9" />
+
+Подключу репозиторий системе
+
+<img width="812" height="70" alt="image" src="https://github.com/user-attachments/assets/d00ea3fd-260c-419b-b82d-885aac6dd228" />
+
+И обновлю список пакетов.
+
+Локальный репозиторий в системе:
+
+<img width="671" height="808" alt="image" src="https://github.com/user-attachments/assets/dffb4575-3b23-4c2b-96c6-3556718b14f2" />
+
+Установка **nginx**  через локальный репозиторий на севере:
+<img width="811" height="440" alt="image" src="https://github.com/user-attachments/assets/8d58cd25-b49f-4339-b10e-2e3f9f590676" />
+
+Настрою установленный Nginx для работы с локальным репозиторием
+
+<img width="807" height="231" alt="image" src="https://github.com/user-attachments/assets/f179eeb5-0149-40a2-a523-366c376867a5" />
+
+
+
 
 
 
