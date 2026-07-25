@@ -135,5 +135,13 @@ Cкрипт, который выполнится после удаления п�
 
 <img width="795" height="21" alt="image" src="https://github.com/user-attachments/assets/7757a0c4-db2a-4f0d-a8b4-409631275724" />
 
+Пакет **nginx_1.24.1_amd64.deb** сформирован и должен находится в директории на уровень ниже:
+
+<img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/d172bbb9-6e30-4da7-8ef2-196b3fa8ec90" />
+
+Теперь создам свой репозиторий и размещу там ранее собранный DEB
+
+
+ 
 
 
