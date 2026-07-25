@@ -139,11 +139,29 @@ Cкрипт, который выполнится после удаления п�
 
 <img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/d172bbb9-6e30-4da7-8ef2-196b3fa8ec90" />
 
-Установка и запуск nginx пока локально на серверное ВМ, не через локальный репозиторий.
+Установка и запуск сервиса при установке nginx пока локально на серверное ВМ, не через локальный репозиторий.
+
+<img width="805" height="125" alt="image" src="https://github.com/user-attachments/assets/0966446e-bbd0-4bc1-8f78-bde2175821c4" />
+
+Установлен и запущен. Отлично. 
+
+Теперь удалим пакет nginx
+
+<img width="811" height="96" alt="image" src="https://github.com/user-attachments/assets/23c5d54c-97e6-4356-b524-4ef44f94a805" />
+
+Пакет удален. Отлично.
+
+Теперь создам свой репозиторий и размещу там ранее собранный пакет Nginx для клиентов:
+
+Создам папку для размещения файлов:
+
+<img width="810" height="54" alt="image" src="https://github.com/user-attachments/assets/3c0f81cc-7374-4cc7-b82a-8316cb65f211" />
+
+И скопирую в неё пакет Nginx:
+
+<img width="810" height="83" alt="image" src="https://github.com/user-attachments/assets/5efd1c1e-1cea-4b3a-9dd1-7697a2deaca6" />
 
 
-
-Теперь создам свой репозиторий и размещу там ранее собранный DEB
 
 
  
