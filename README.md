@@ -83,5 +83,33 @@ Control-файл.
 
 <img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/a0180b1a-d6b2-49e0-8468-3d4da96811e3" />
 
+Дополнительные файлы сборки
+
+Данные файлы не являются обязательными. Они могут увеличить возможности собираемого пакета, а также нужны для удобства.
+
+1. Файл postinst.
+
+<img width="798" height="143" alt="image" src="https://github.com/user-attachments/assets/7e326c1f-02d1-413a-a19e-d63c1b92de47" />
+
+2. Файл postrm.
+
+Cкрипт, который выполнится после удаления пакета:
+
+<img width="798" height="356" alt="image" src="https://github.com/user-attachments/assets/dbd837a2-739e-4bd0-a756-79fe6405e1ea" />
+
+3. Файл preinst.
+
+<img width="797" height="278" alt="image" src="https://github.com/user-attachments/assets/6b73aaca-e159-479c-b8f8-2af4d4719b6a" />
+
+4. Файл prerm.
+
+<img width="798" height="341" alt="image" src="https://github.com/user-attachments/assets/75a56cbf-9668-45a5-836e-ced2c0fc43dc" />
+
+Сборка пакета
+
+У меня созданы все необходимые файлы, выполнены предварительные действия, и готов сборке. 
+
+Проверю, что у меня установлены необходимые пакеты и, при необходимости, установлю их:
+
 
 
