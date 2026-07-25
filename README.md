@@ -89,13 +89,13 @@ Control-файл.
 
 1. Файл postinst.
 
-<img width="798" height="143" alt="image" src="https://github.com/user-attachments/assets/7e326c1f-02d1-413a-a19e-d63c1b92de47" />
+<img width="792" height="168" alt="image" src="https://github.com/user-attachments/assets/bf057a15-241f-40c5-8b8a-e1681667b709" />
 
 2. Файл postrm.
 
 Cкрипт, который выполнится после удаления пакета:
 
-<img width="798" height="356" alt="image" src="https://github.com/user-attachments/assets/dbd837a2-739e-4bd0-a756-79fe6405e1ea" />
+<img width="590" height="295" alt="image" src="https://github.com/user-attachments/assets/eb630e9d-2402-4526-9591-877c16014a07" />
 
 3. Файл preinst.
 
@@ -103,7 +103,7 @@ Cкрипт, который выполнится после удаления п�
 
 4. Файл prerm.
 
-<img width="798" height="341" alt="image" src="https://github.com/user-attachments/assets/75a56cbf-9668-45a5-836e-ced2c0fc43dc" />
+<img width="770" height="276" alt="image" src="https://github.com/user-attachments/assets/1353966c-db60-4776-acc4-af22e02b73a2" />
 
 Сборка пакета
 
@@ -119,7 +119,7 @@ Cкрипт, который выполнится после удаления п�
 
 - начало сборки
 
-  <img width="792" height="975" alt="image" src="https://github.com/user-attachments/assets/d65e3c8d-9be1-4156-b999-b9b8a947050b" />
+<img width="792" height="975" alt="image" src="https://github.com/user-attachments/assets/d65e3c8d-9be1-4156-b999-b9b8a947050b" />
 
 - процесс
  
@@ -138,6 +138,10 @@ Cкрипт, который выполнится после удаления п�
 Пакет **nginx_1.24.1_amd64.deb** сформирован и должен находится в директории на уровень ниже:
 
 <img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/d172bbb9-6e30-4da7-8ef2-196b3fa8ec90" />
+
+Установка и запуск nginx пока локально на серверное ВМ, не через локальный репозиторий.
+
+
 
 Теперь создам свой репозиторий и размещу там ранее собранный DEB
 
