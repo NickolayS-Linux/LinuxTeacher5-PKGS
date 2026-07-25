@@ -65,6 +65,9 @@ Control-файл.
 
 <img width="785" height="273" alt="image" src="https://github.com/user-attachments/assets/b433f0fa-104a-4a13-b643-d83c747419ac" />
 
+Файл changelog
+
+Содержание:
 
 <img width="794" height="140" alt="image" src="https://github.com/user-attachments/assets/0b747fc4-00f0-45e9-96ca-dcad145fb951" />
 
