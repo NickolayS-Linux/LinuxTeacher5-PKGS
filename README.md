@@ -176,11 +176,41 @@ Cкрипт, который выполнится после удаления п�
 <img width="671" height="808" alt="image" src="https://github.com/user-attachments/assets/dffb4575-3b23-4c2b-96c6-3556718b14f2" />
 
 Установка **nginx**  через локальный репозиторий на севере:
+
 <img width="811" height="440" alt="image" src="https://github.com/user-attachments/assets/8d58cd25-b49f-4339-b10e-2e3f9f590676" />
 
 Настрою установленный Nginx для работы с локальным репозиторием
 
 <img width="807" height="231" alt="image" src="https://github.com/user-attachments/assets/f179eeb5-0149-40a2-a523-366c376867a5" />
+
+Просмотр репозтория через Веб
+
+<img width="1864" height="189" alt="image" src="https://github.com/user-attachments/assets/e129eceb-d68d-43df-9338-a15138743293" />
+
+Настрока репозитория на клиенте:
+
+<img width="810" height="64" alt="image" src="https://github.com/user-attachments/assets/e416d23f-318f-4f71-903f-3c451c9e09c1" />
+
+Запущу обновление кэша пакетов на клиенте:
+
+<img width="721" height="754" alt="image" src="https://github.com/user-attachments/assets/39e0298a-ae53-4ed4-98a3-69272c45bb78" />
+
+Установка пакета Nginx из моего репозитория, на клиенте:
+
+<img width="815" height="288" alt="image" src="https://github.com/user-attachments/assets/d34b1b3c-ecaf-4838-bdc8-4b8b3f1d6571" />
+
+Пакет установлен:
+
+<img width="809" height="240" alt="image" src="https://github.com/user-attachments/assets/196f2263-7f61-432f-b712-d2955773c7d6" />
+
+
+
+<img width="806" height="138" alt="image" src="https://github.com/user-attachments/assets/a3ff7af1-717f-449e-8e14-7a63d9416259" />
+
+
+
+
+
 
 
 
