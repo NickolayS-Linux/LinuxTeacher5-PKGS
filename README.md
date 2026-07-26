@@ -1,4 +1,5 @@
 # LinuxTeacher5-PKGS
+
  Размещаем свой RPM в своем репозитории, ДЗ №5
 
 Создал аккаунт на GitHub - https://github.com/
@@ -203,11 +204,10 @@ Cкрипт, который выполнится после удаления п�
 
 <img width="809" height="240" alt="image" src="https://github.com/user-attachments/assets/196f2263-7f61-432f-b712-d2955773c7d6" />
 
-
-
 <img width="806" height="138" alt="image" src="https://github.com/user-attachments/assets/a3ff7af1-717f-449e-8e14-7a63d9416259" />
 
 
+Домашнее задание выполнено в полном объеме.
 
 
 
