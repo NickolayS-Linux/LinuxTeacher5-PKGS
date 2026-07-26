@@ -12,7 +12,7 @@ Oracle VirtualBox (https://www.virtualbox.org/wiki/Linux_Downloads).
 
 Все дальнейшие действия были проверены при использовании VirtualBox 7.2.6 r172322, хостовая ОС: Ubuntu 24.04 Desktop. 
 
-Гостевая система — Ubuntu 24.04.4 LTS.
+Гостевая система — Ubuntu 24.04.4 LTS. (Сервер и клиент
 
 Оформить отчет в README-файле в GitHub-репозитории.
 
